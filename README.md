@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Develoment & Java Development**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **JAVA Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://rajesh-kumar2002.000webhostapp.com/index.html](https://rajesh-kumar2002.000webhostapp.com/index.html)
 
